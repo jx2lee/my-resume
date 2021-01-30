@@ -86,15 +86,15 @@ Thanks.
 
 ***# Sentiment Analysis based on Korean using Recurrent Neural Network: focused on Online Movie Review (dissertation):** [http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=51909e84bd4b8282ffe0bdc3ef48d419](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=51909e84bd4b8282ffe0bdc3ef48d419)*
 
-***# Sentiment Analysis Using Deep Learning Model based on Phoneme-level Korean:** [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07282148]
+***# Sentiment Analysis Using Deep Learning Model based on Phoneme-level Korean:** [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07282148](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07282148)*
 
 - Korea Society of IT Services, 17 (1), 79-89, 2018, 1/3
 
-***# Korean Sentence Generation Using Phoneme-Level LSTM Language Model:** [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07189914] (https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07189914)*
+***# Korean Sentence Generation Using Phoneme-Level LSTM Language Model:** [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07189914](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07189914)*
 
 - Korea Intelligence Information System Society, 23(2), 71-88, 2017, 3/4
 
-***# Comparison of Deep Learning Frameworks : About Theano, Tensorflow, and Cognitive Toolkit:** [https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07189911]
+***# Comparison of Deep Learning Frameworks : About Theano, Tensorflow, and Cognitive Toolkit:** [https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07189911](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07189911)*
 
 - Korea Intelligence Information System Society, 23(2), 1-17, 2017, 4/4
 
