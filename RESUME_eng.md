@@ -2,7 +2,9 @@
 
 ## TehcOps Engineer
 
-안녕하세요! 빅데이터와 Docker/Kubernetes 에 관심이 많은 Software Technical 엔지니어 입니다. 현재 NHN 계열사인 NHN Soft에 재직 중으로, Toast 클라우드 서비스 기술 문의 응대와 배포 관리 업무를 맡고 있습니다. 항상 배우기 좋아하는 성격으로 모르는 것이 있으면 끝까지 파고드는 근성이 있습니다. 기술적인 지원 외에도 개발에 관심이 많아 현재 Python 외에도 Java, Golang 을 공부하며 개발 지식을 쌓아가고 있습니다.
+Hello! I'm a Software Technical Engineer interested in big data and Docker/Kubernetes. I am currently working at NHN Soft, an NHN affiliate, and I am responsible for Toast cloud service technical inquiries and deployment management. I always like to learn, so if I don't know anything, I have the guts to go all the way. In addition to technical support, I am interested in development, so I am currently studying Java and Golang in addition to Python and accumulating development knowledge.
+
+Thanks.
 
 - **Github**    :[https://github.com/jx2lee](https://github.com/jx2lee)
 - **Techblog**  :[https://jx2lee.github.io](https://jx2lee.github.io)
@@ -82,7 +84,7 @@
 
 ### 📄Paper
 
-***# Sentiment Analysis based on Korean using Recurrent Neural Network: focused on Online Movie Review (dissertation):** [http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=51909e84bd4b8282ffe0bdc3ef48d419] (http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=51909e84bd4b8282ffe0bdc3ef48d419)*
+***# Sentiment Analysis based on Korean using Recurrent Neural Network: focused on Online Movie Review (dissertation):** [http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=51909e84bd4b8282ffe0bdc3ef48d419](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=51909e84bd4b8282ffe0bdc3ef48d419)*
 
 ***# Sentiment Analysis Using Deep Learning Model based on Phoneme-level Korean:** [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07282148]
 
