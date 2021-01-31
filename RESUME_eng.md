@@ -10,23 +10,23 @@ Thanks.
 - **Techblog**  :[https://jx2lee.github.io](https://jx2lee.github.io)
 - **linkedin**  :[https://www.linkedin.com/in/jx2lee](https://www.linkedin.com/in/jx2lee)  
 
-### 👨🏻‍💻Career
+### 👨🏻‍💻 Career
 
 - NHN Soft (2020.11.30 ~ )
 - TmaxData (2018.08.01 ~ 2020.11.27)
 
-### 📖Education
+### 📖 Education
 
 - Master of Arts in DataScience, *Kookmin Univ* (2016.09 ~ 2018.08)
 - Bachelor of Science in Math, *Kookmin Univ* (2010.03 ~ 2016.02)
 - *BOAZ BigData club (#8)* (2017.01 ~ 2018.01)
 
-### 🍳SKILLS
+### 🍳 SKILLS
 
 * **Programming Skills**: Python, SQL
 * **Backend**: Kubernetes, Docker, Linux, Git
 
-### 🏆PROJECT
+### 🏆 PROJECT
 
 ***# Advancement of personal information exposure response system and e-Privacy clean service, KISA, Aug 2020 - ING***
 
@@ -69,20 +69,22 @@ Thanks.
 
 ### Side Project
 
-***Implement Kubeflow Installation and Automation Scripts:** [https://github.com/jx2lee/Kubeflower](https://github.com/jx2lee/Kubeflower)*
+***# Implement Kubeflow Installation and Automation Scripts:** [https://github.com/jx2lee/Kubeflower](https://github.com/jx2lee/Kubeflower)*
 
 **Performance:**
 
 - Implement automation scripts to deploy Kubeflow for on-premises products on Kubernetes
 - [https://github.com/jx2lee/KFimgr](https://github.com/jx2lee/KFimgr: Script implementation to push Kubeflow image to docker registry
 
-***Building Kubernetes for team testing:** [https://jx2lee.github].io/cloud-install_k8s](https://jx2lee.github.io/cloud-install_k8s/)*
+***# Building Kubernetes for team testing:** [https://jx2lee.github.io/cloud-install_k8s](https://jx2lee.github.io/cloud-install_k8s/)*
+
+**Performance:**
 
 - Build Kubernetes environment for in-house product testing
 - Kubernetes 1.15.3 Cluster(& 1.17.6) Deployment (Master HA)
 - Calico CNI / Rook-ceph
 
-### 📄Paper
+### 📄 Paper
 
 ***# Sentiment Analysis based on Korean using Recurrent Neural Network: focused on Online Movie Review (dissertation):** [http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=51909e84bd4b8282ffe0bdc3ef48d419](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=51909e84bd4b8282ffe0bdc3ef48d419)*
 

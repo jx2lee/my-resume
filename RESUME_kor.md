@@ -6,35 +6,35 @@
 
 감사합니다.
 
-### 👨🏻‍💻Career
+### 👨🏻‍💻 Career
 
 - NHN Soft (2020.11.30 ~ )
 - TmaxData (2018.08.01 ~ 2020.11.27)
 
-### 📖Education
+### 📖 Education
 
 - Master of Arts in DataScience, *Kookmin Univ* (2016.09 ~ 2018.08)
 - Bachelor of Science in Math, *Kookmin Univ* (2010.03 ~ 2016.02)
 - *BOAZ BigData club (#8)* (2017.01 ~ 2018.01)
 
-### 🐶Github
+### 🐶 Github
 
 [jx2lee - Overview](https://github.com/jx2lee)
 
 회사 업무 및 사이드 프로젝트를 진행하는 **Github** 계정입니다.
 
-### 📀Blog
+### 📀 Blog
 
 [go hard](https://jx2lee.github.io)
 
 매일 쌓여가는 지식을 어디엔가 적어두고 쌓기 위해 운영하는 개인 블로그 입니다.
 
-### 🍳Skills
+### 🍳 Skills
 
 - Programming Skills: Python, SQL, Java, Golang
 - Backend: Docker, Kubernetes, Linux, Git
 
-### 🏆Project (or POC)
+### 🏆 Project (or POC)
 
 ***# 한국인터넷진흥원 - 개인정보노출대응체계 및 e프라이버시클린서비스 고도화: 2020.06 ~ 2020.11***
 
@@ -94,11 +94,13 @@
 
 ***# 팀 테스트를 위한 Kubernetes 구축:** [https://jx2lee.github.io/cloud-install_k8s](https://jx2lee.github.io/cloud-install_k8s/)*
 
+**수행 업무:**
+
 - 사내 제품 테스트를 위해 Kubernetes 환경 구축
 - Kubernetes 1.15.3(& 1.17.6) 클러스터 구축 (마스터 삼중화)
 - Calico CNI / Rook-ceph
 
-### 📄Paper
+### 📄 Paper
 
 ***# RNN을 이용한 한국어 감성분석 - 온라인 영화 후기를 중심으로 (학위논문):** [http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=51909e84bd4b8282ffe0bdc3ef48d419](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=51909e84bd4b8282ffe0bdc3ef48d419)*
 
