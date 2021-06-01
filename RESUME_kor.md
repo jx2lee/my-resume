@@ -46,7 +46,7 @@ NHN Soft 재직 중으로 사내 데이터플랫폼 운영과 NHN 클라우드 �
 - NHN Cloud 서비스를 제공하기 위한 사내 데이터플랫폼 운영 업무
 - 크게 서비스 & 시스템 운영
     - 서비스 운영
-        - iOS 심볼 추출 및 업로드 작업 (앱 크래시 획득을 위함) https://github.com/jx2lee/extract-ios-symbols
+        - iOS 심볼 추출 및 업로드 작업: https://github.com/jx2lee/extract-ios-symbols
         - API 서버 IP ACL 관리
     - 시스템 운영
         - 일/월 미터링 정합성 확인 (MongoDB)
@@ -93,14 +93,15 @@ NHN Soft 재직 중으로 사내 데이터플랫폼 운영과 NHN 클라우드 �
 - 제품 설치 (On-premise)
 - 사내 제품을 이용한 마트 시각화 (HyperData)
 
-## BOAZ 컨퍼런스 - 이별가사 Generator, [https://github.com/jx2lee/lyric-generator](https://github.com/jx2lee/lyric-generator)
+## BOAZ 컨퍼런스 - 이별가사 Generator
 
 **수행 업무:**
 
 - 이별 가사를 학습하여 새로운 이별 가사를 생성하는 모델을 딥러닝을 이용해 구현
 - 이별 가사 Crawling 과 모델 구현 (with Python / Tensorflow)
+- [https://github.com/jx2lee/lyric-generator](https://github.com/jx2lee/lyric-generator)
 
-## **삼성화재 빅데이터 교육 - 자동차등록증 내 차대번호 감지 및 예측: 2017.10.31 ~ 2018.01.02,** [https://github.com/jx2lee/digit-recognition](https://github.com/jx2lee/digit-recognition)
+## **삼성화재 빅데이터 교육 - 자동차등록증 내 차대번호 감지 및 예측: 2017.10.31 ~ 2018.01.02**
 
 **수행 업무:**
 
@@ -109,6 +110,7 @@ NHN Soft 재직 중으로 사내 데이터플랫폼 운영과 NHN 클라우드 �
     - python-opencv 를 이용한 차대번호 감지 support
     - 예측 결과를 위한 CNN 모델 튜닝
     - **모델 튜닝 결과 70% detection 감지율을 90% 이상 향상**
+- [https://github.com/jx2lee/digit-recognition](https://github.com/jx2lee/digit-recognition)
 
 # 📽️ Side Project
 
