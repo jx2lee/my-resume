@@ -136,7 +136,7 @@ NHN Soft 재직 중으로 사내 데이터플랫폼 운영과 NHN 클라우드 �
 
 - 사내에서 사용중인 Dooray 를 활용해 `한 달 지연` // `업무 제목 수정` // `지연 건 알림` 3 개 기능을 제공하는 알람 서비스 개발
 - Written in Java with Spring
-    - [https://github.com/jx2lee/sfo-alert](https://github.com/jx2lee/sfo-alert)
+    - [https://github.com/jx2lee/sfo-backend](https://github.com/jx2lee/sfo-backend)
 
 ## Learn Spring
 
